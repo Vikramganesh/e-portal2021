@@ -1,0 +1,21 @@
+{
+  "name": "nosqlbackend",
+  "version": "1.0.0",
+  "description": "educational portal",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "ganesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto-random-string": "^3.3.0",
+    "express": "^4.17.1",
+    "hogan.js": "^3.0.2",
+    "mongoose": "^5.11.9",
+    "nodemailer": "^6.4.17",
+    "nodemon": "^2.0.6",
+    "underscore": "^1.12.0"
+  }
+}
